@@ -1,0 +1,15 @@
+export const GIF_COUNT = {
+  blush: 28,
+  coffee: 32,
+  confused: 17,
+  cry: 8,
+  cuddle: 6,
+  cute: 14,
+  holdhands: 5,
+  hug: 5,
+  kiss: 28,
+  laugh: 36,
+  pout: 7,
+  smug: 21,
+  stare: 24,
+};

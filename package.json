@@ -1,0 +1,27 @@
+{
+  "name": "chop-gifs",
+  "version": "0.1.0",
+  "description": "Library to generate urls to the chop cdn",
+  "main": "dist/chop-gifs.js",
+  "module": "src/index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": [
+    "chop",
+    "gifs",
+    "cdn"
+  ],
+  "author": "Joaquim Neto <joaquimmy@yahoo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.7.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "jest": "^24.9.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "types": "types/index.d.ts"
+}
