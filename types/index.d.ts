@@ -12,6 +12,7 @@ export function confused(): string;
 export function cry(): string;
 export function cuddle(): string;
 export function cute(): string;
+export function highfive(): string;
 export function holdhands(): string;
 export function hug(): string;
 export function kiss(): string;

@@ -9,6 +9,7 @@ test('should generate valid urls', () => {
     'cry',
     'cuddle',
     'cute',
+    'highfive',
     'holdhands',
     'hug',
     'kiss',

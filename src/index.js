@@ -30,6 +30,10 @@ export function cute() {
   return `${URL}/cute/${random(0, GIF_COUNT.cute)}.gif`;
 }
 
+export function highfive() {
+  return `${URL}/highfive/${random(0, GIF_COUNT.highfive)}.gif`;
+}
+
 export function holdhands() {
   return `${URL}/holdhands/${random(0, GIF_COUNT.holdhands)}.gif`;
 }
