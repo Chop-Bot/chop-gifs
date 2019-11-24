@@ -10,6 +10,7 @@ export const GIF_COUNT = {
   kiss: 28,
   laugh: 36,
   pout: 7,
+  punch: 31,
   smug: 21,
   stare: 24,
 };

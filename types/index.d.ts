@@ -17,6 +17,7 @@ export function hug(): string;
 export function kiss(): string;
 export function laugh(): string;
 export function pout(): string;
+export function punch(): string;
 export function smug(): string;
 export function stare(): string;
 // export function myOtherMethod(a: number): number;

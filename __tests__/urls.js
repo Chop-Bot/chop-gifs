@@ -14,6 +14,7 @@ test('should generate valid urls', () => {
     'kiss',
     'laugh',
     'pout',
+    'punch',
     'smug',
     'stare',
   ].forEach(type => {
