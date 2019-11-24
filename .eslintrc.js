@@ -4,6 +4,7 @@ module.exports = {
     es6: true,
     jest: true,
   },
+  ignorePatterns: ['dist'],
   extends: [
     'airbnb-base',
   ],
