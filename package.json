@@ -1,6 +1,6 @@
 {
   "name": "chop-gifs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Library to generate urls to the chop cdn",
   "main": "dist/chop-gifs.js",
   "module": "src/index.js",
