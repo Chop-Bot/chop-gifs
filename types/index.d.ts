@@ -20,6 +20,7 @@ export function laugh(): string;
 export function lick(): string;
 export function pout(): string;
 export function punch(): string;
+export function slap(): string;
 export function smug(): string;
 export function stare(): string;
 // export function myOtherMethod(a: number): number;

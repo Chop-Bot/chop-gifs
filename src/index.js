@@ -62,6 +62,10 @@ export function punch() {
   return `${URL}/punch/${random(0, GIF_COUNT.punch)}.gif`;
 }
 
+export function slap() {
+  return `${URL}/slap/${random(0, GIF_COUNT.slap)}.gif`;
+}
+
 export function smug() {
   return `${URL}/smug/${random(0, GIF_COUNT.smug)}.gif`;
 }
