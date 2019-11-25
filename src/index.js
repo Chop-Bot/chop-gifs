@@ -54,6 +54,10 @@ export function lick() {
   return `${URL}/lick/${random(0, GIF_COUNT.lick)}.gif`;
 }
 
+export function pat() {
+  return `${URL}/pat/${random(0, GIF_COUNT.pat)}.gif`;
+}
+
 export function pout() {
   return `${URL}/pout/${random(0, GIF_COUNT.pout)}.gif`;
 }

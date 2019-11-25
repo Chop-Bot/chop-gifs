@@ -11,6 +11,7 @@ export const GIF_COUNT = {
   kiss: 28,
   laugh: 36,
   lick: 25,
+  pat: 137,
   pout: 7,
   punch: 32,
   slap: 21,
