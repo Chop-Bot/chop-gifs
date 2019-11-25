@@ -17,6 +17,7 @@ export function holdhands(): string;
 export function hug(): string;
 export function kiss(): string;
 export function laugh(): string;
+export function lick(): string;
 export function pout(): string;
 export function punch(): string;
 export function smug(): string;

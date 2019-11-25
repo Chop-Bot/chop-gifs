@@ -50,6 +50,10 @@ export function laugh() {
   return `${URL}/laugh/${random(0, GIF_COUNT.laugh)}.gif`;
 }
 
+export function lick() {
+  return `${URL}/lick/${random(0, GIF_COUNT.lick)}.gif`;
+}
+
 export function pout() {
   return `${URL}/pout/${random(0, GIF_COUNT.pout)}.gif`;
 }

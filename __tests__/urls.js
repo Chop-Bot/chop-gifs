@@ -14,6 +14,7 @@ test('should generate valid urls', () => {
     'hug',
     'kiss',
     'laugh',
+    'lick',
     'pout',
     'punch',
     'smug',
